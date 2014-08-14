@@ -1,0 +1,33 @@
+		
+			TERMS AND CONDITIONS
+
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE 
+SIGNING UP FOR THE LOGIN SYSTEMS.By filling the application form 
+for a new account, you signify your agreement to these 
+Terms and Conditions. Dcf Login Systems may modify these Terms at
+anytime.
+
+TO THE FULLEST EXTENT PERMISSABLE PURSUANT TO APPLICABLE LAW,
+DCF LOGIN SYSTEMS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING,BUT NOT LIMITED TO IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESSFOR A PARTICULAR PURPOSE 
+AND NON-INFRINGEMENT. D_L_S DOES NOT WARRANT THE ACCURACY,
+COMPLETENESS OR USEFULNESS OF ANY INFORMATION CONTAINED ON THIS
+SYSTEM. DCF LOGIN SYSTEMS DOES NOT WARRANT THAT THE FUNCTIONS
+CONTAINED IN THE MATERIALS AVAILABLE ON THIS COMMUNITY WILL BE
+UNINTERRUPTED OR ERROR-FREE,THAT DEFECTS WILL BE CORRECTED, OR
+THAT THE MATERIALS, THIS SITE OR SERVER THAT MAKES THEM AVAILABLE
+ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. YOU (AND NOT
+D_L_S) ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR
+AND CORRECTION. 
+
+Termination:
+This Agreement is effective unless and until terminated by either 
+you or D_L_S. You may terminate this Agreement at any time by no
+longer using this web site, provided that all prior uses of this
+web site shall be governed by this Agreement. D_L_S may terminate
+this Agreement at any time and without notice, and accordingly
+deny you access to this web site, in D_L_S's sole discretion for
+any reason, including your failure to comply with any term or
+provision of this Agreement.
+Type 'y' to accept the above conditions or 'n' to quit..[y/n]
