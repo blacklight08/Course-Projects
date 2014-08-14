@@ -1,0 +1,9 @@
+NET "ten" LOC="A10";
+NET "five" LOC="D14";
+NET "two" LOC="C14";
+NET "one" LOC="P15";
+NET "slwclk" LOC="L15";
+NET "O" LOC="E4";
+NET "clk1" LOC="U18";
+NET "vended" LOC="P16";
+NET "processing" LOC="D4";

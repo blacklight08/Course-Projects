@@ -1,0 +1,24 @@
+Working Model:-
+	Change will not be returned.
+	The standard state machine with three states i.e Reset, Wait, Process.
+	 Once the amount is attained coke is vended which is shown for a whole complete cycle and then the state machine shifts back to reset state.
+	 Since the adder and comparator are combinational elements, their values are used to compare the value of cost of each coke.
+	 The comparator returns '1' when sum crosses 20.
+	 Once the value is taken the processing light glows, the next value is not to be entered until the processing light doesn't glow.
+	 Binary Encoding Used - 
+	 		rest - '00'
+	 		process- '01'
+	 		wait - '11'
+	 Inputs -
+	 		c - comparator putput
+	 		w - input is given condition.
+	 
+	 
+Not Working Model:-
+	Change can be returned. (Finite and Infinite Change)
+	
+	Second state machine is used which encapsulates the previous model
+	This model used before and after the previous model, before aspect of this is to instantiate the values in registers, aftermath is to return the change using various de-muxs' and muxs'.
+	Various new registers are used to save the number and type of coins given by the user.
+	The logic of the aftermath returns us the # of coins to be returned or says we cannot return the change.
+	If the change cannot be returned the circuit returns '0', so our work is to returnthe values in the registers used save the coins entered by the user.
